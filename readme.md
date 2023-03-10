@@ -1,0 +1,2 @@
+Husk å pakke ut node_modules.zip før du starter serveren!
+Noe gikk galt og jeg klarte ikke å publisere respositirien via terminalen, og node_modules mappen var alt for stor for å publisere den ukomprimert.
